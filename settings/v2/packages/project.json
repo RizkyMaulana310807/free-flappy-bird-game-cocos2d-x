@@ -1,0 +1,28 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 640,
+      "height": 960
+    }
+  },
+  "layer": [
+    {
+      "name": "BACKGROUND",
+      "value": 1
+    },
+    {
+      "name": "OBSTACLE",
+      "value": 2
+    },
+    {
+      "name": "PLAYER",
+      "value": 4
+    },
+    {
+      "name": "UI",
+      "value": 8
+    }
+  ],
+  "custom_joint_texture_layouts": []
+}
